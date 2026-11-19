@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mi Inventario</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_scan">Escanear</string>
+    <string name="nav_products">Productos</string>
+    <string name="nav_movements">Movimientos</string>
+    <string name="nav_history">Historial</string>
+    <string name="action_entries">Entradas</string>
+    <string name="action_exits">Salidas</string>
+    <string name="action_transfers">Transferencias</string>
+    <string name="action_initial_inventory">Inventario inicial</string>
+    <string name="action_settings">Configuración</string>
+    <string name="camera_permission_rationale">Se necesita permiso de cámara para escanear códigos de barras (EAN-13, EAN-8, UPC-A, UPC-E, Code 128) y códigos QR sin conexión.</string>
+    <string name="error_insufficient_stock">Existencias insuficientes en el área seleccionada.</string>
+</resources>

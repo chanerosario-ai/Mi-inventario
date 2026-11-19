@@ -1,0 +1,6 @@
+{
+  "name": "Mi Inventario",
+  "description": "Sistema de control de inventario local para Almacén general, Despensa, Almacén de licores y Bar con escáner de códigos, equivalencias, transferencias atómicas y copias de seguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
